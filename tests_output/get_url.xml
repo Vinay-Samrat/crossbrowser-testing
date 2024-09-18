@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="get_url"
+    errors="0" failures="0" hostname="" id="" package="get_url" skipped="1"
+    tests="0" time="0.001000" timestamp="">
+  
+
+  
+
+    
+
+  
+    
+    <testcase
+      name="get_url" classname="get_url">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
